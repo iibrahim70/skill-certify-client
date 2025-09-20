@@ -3,7 +3,7 @@ import { Badge, Button } from "./ui";
 export const Hero = () => {
   return (
     <section className="container mx-auto text-center space-y-5 py-20">
-      <Badge>Digital Competency Assessment Platform</Badge>
+      <Badge className="bg-black">Digital Competency Assessment Platform</Badge>
 
       <h1>
         Master Your Digital Skills with{" "}
